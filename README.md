@@ -20,6 +20,12 @@ Working on multiple AI research projects including:
 - **MoodMirror AI System** – AI-powered emotional wellness tracking platform using RoBERTa models, GPT-based diary generation, and behavioral analytics dashboards.
 - **AI/NLP Research Systems** – Building transformer-based pipelines for social media sentiment, toxicity detection, and authenticity analysis.
 
+🎓 **Graduate Teaching Assistant – University of the Pacific**
+
+- Teaching Assistant for **Introduction to Security Analytics (ANLT-293B)**.
+- Assisted with hands-on labs covering Linux systems, virtualization, SIEM tools (Splunk), threat intelligence, endpoint detection, and SOC-based investigations.
+- Supported grading, technical guidance, and development of course materials for cybersecurity analytics training.
+
 ## Technical Interests
 
 - Artificial Intelligence
