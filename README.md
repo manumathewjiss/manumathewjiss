@@ -1,57 +1,203 @@
-# Hi, I'm Manu Mathew Jiss 👋 
-Portfolio : https://manumathewjiss.com
+# Hi, I'm Manu Mathew Jiss 👋
 
-🎓 MS in Computer Science at the University of the Pacific (Expected Spring 2026)
+🎓 MS in Computer Science at the University of the Pacific
+📍 San Francisco Bay Area, California
+🔗 Portfolio: https://manumathewjiss.com
 
-I am an AI/ML engineer and researcher focused on building intelligent systems, machine learning pipelines, and real-world AI applications. My work spans natural language processing, computer vision, data engineering, and AI-powered software systems.
+I am an AI/ML Engineer, Researcher, and Builder focused on developing intelligent systems, scalable AI pipelines, and production ready machine learning applications.
 
-I am a **co-founder of two AI startups** where I build production-ready AI systems and scalable software platforms, and I currently work as a **Graduate Research Assistant across multiple research labs** at the University of the Pacific.
+My work spans:
 
-## Professional Experience
+* Generative AI & LLM Applications
+* NLP & Sentiment Analysis
+* Autonomous Systems & Computer Vision
+* AI Powered Full Stack Applications
+* Data Engineering & Analytics
+* Cybersecurity & AI Security
+* Robotics & Embedded AI Systems
 
-🚀 **Co-Founder & Software Engineer**
-- **Stock Crusher** – Built a multi-AI trading intelligence platform integrating multiple real-time market APIs and LLMs to generate BUY/SELL/HOLD signals using a weighted consensus system.  
-- **MealMuse** – AI-powered iOS application for personalized recipe generation using text, voice, and image inputs with a scalable GPT-based backend infrastructure.
+I currently work as a Graduate Research Assistant across multiple AI research labs at the University of the Pacific while also building AI startups and real world production systems.
 
-🔬 **Graduate Research Assistant (4 Research Roles)**
-Working on multiple AI research projects including:
+---
 
-- **Sentiment Trajectory Research** – Large-scale analysis of Reddit discussions using NLP pipelines, VADER sentiment analysis, and custom evaluation metrics.
-- **Autonomous Racing AI** – Developing perception and control systems for an F1TENTH autonomous racing car using ROS2, computer vision, LiDAR, and Jetson embedded GPUs.
-- **MoodMirror AI System** – AI-powered emotional wellness tracking platform using RoBERTa models, GPT-based diary generation, and behavioral analytics dashboards.
-- **AI/NLP Research Systems** – Building transformer-based pipelines for social media sentiment, toxicity detection, and authenticity analysis.
+# 🚀 Startup Experience
 
-🎓 **Graduate Teaching Assistant – University of the Pacific**
+## Co-Founder & Software Engineer | Stock Crusher
 
-- Teaching Assistant for **Introduction to Security Analytics (ANLT-293B)**.
-- Assisted with hands-on labs covering Linux systems, virtualization, SIEM tools (Splunk), threat intelligence, endpoint detection, and SOC-based investigations.
-- Supported grading, technical guidance, and development of course materials for cybersecurity analytics training.
+Built a GenAI powered autonomous trading platform integrating:
 
-## Technical Interests
+* Reddit + news sentiment pipelines
+* Multi source financial APIs
+* LLM based reasoning systems
+* Real time BUY / SELL signal generation
+* Portfolio analytics and risk insights
 
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Generative AI & LLM Applications
-- Data Engineering & Analytics
-- Autonomous Systems & Computer Vision
+Tech used:
+Python • FastAPI • OpenAI API • Reddit API • Yahoo Finance • Redis • PostgreSQL • Streamlit
 
-## Tech Stack
+---
 
-**Languages**
-Python • C++ • JavaScript • TypeScript • SQL
+## Co-Founder & Software Engineer | Meal Muse
 
-**ML / AI**
-PyTorch • TensorFlow • HuggingFace • Transformers • NLP • LLMs • RAG
+Developed a full stack AI recipe assistant featuring:
 
-**Backend & Systems**
-FastAPI • Flask • Node.js • Docker • REST APIs
+* AI powered recipe generation
+* Personalized food recommendations
+* Voice, image, and text based inputs
+* Secure authentication systems
+* Scalable backend infrastructure
 
-**Data & Infrastructure**
-PostgreSQL • MongoDB • Redis • ClickHouse • ETL Pipelines
+Tech used:
+SwiftUI • FastAPI • Node.js • PostgreSQL • OpenAI API
 
-## Connect With Me
+---
 
-🌐 Website: https://manumathewjiss.github.io  
-💼 LinkedIn: https://www.linkedin.com/in/manu-mathew-jiss/  
-📧 Email: manumathewjiss18@gmail.com
+# 🔬 Research Experience
+
+## Graduate Research Assistant | University of the Pacific
+
+### Sentiment Trajectory Research
+
+Working under Dr. Solomon Berhe
+
+* Conducted sentiment trajectory analysis on Reddit discussions using NLP pipelines and VADER sentiment analysis
+* Built scalable data pipelines with filtering, annotation, evaluation, and live dashboard visualization
+* Modeled author vs community sentiment divergence patterns
+
+---
+
+### Autonomous Racing AI
+
+Working under Dr. Don Lee
+
+* Developed AI perception and control systems for an F1TENTH autonomous racing platform
+* Integrated ROS2, OpenCV, LiDAR, CUDA, Docker, and Jetson Orin Nano for real time navigation
+* Built SignSight, a vision language framework for traffic sign recognition using CLIP based semantic reasoning
+
+📄 Manuscript under review at CVPR 2026
+
+---
+
+### AI/NLP Security Research
+
+Working under Dr. Tapadhir Das
+
+* Developed AI pipelines for:
+
+  * Sentiment analysis
+  * Toxicity detection
+  * Fake account classification
+  * Bot and scam detection
+* Achieved 96.9% classification accuracy using XGBoost and LIME based explainability systems
+* Built LIMFADD dataset for fake account detection research
+
+📄 Research under review at IEEE SMC 2026
+📄 Published at IEEE ISTAS 2025 TechRxiv
+
+---
+
+### AIMoodDiary Research
+
+Working under Dr. Pramod Gupta
+
+* Developed RoBERTa based emotion classification systems using the GoEmotions dataset
+* Built AIMoodDiary, an AI journaling platform with LLM powered diary generation and mood analytics
+* Developed full stack architecture using Next.js and FastAPI
+
+---
+
+# 🎓 Graduate Teaching Assistant
+
+## University of the Pacific
+
+Teaching Assistant for cybersecurity analytics and security operations coursework.
+
+Worked on:
+
+* SIEM and Splunk workflows
+* Linux and virtualization labs
+* Threat intelligence investigations
+* SOC based security analysis
+* Log analysis and reporting
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+Python • C++ • JavaScript • TypeScript • SQL • MATLAB • Bash • HTML • CSS
+
+## Machine Learning & AI
+
+TensorFlow • PyTorch • Scikit learn • Hugging Face • YOLOv5 • ResNet50 • LLMs • RAG • NLP • OpenAI API • SHAP • LIME • VADER • TextBlob
+
+## Backend & Frameworks
+
+FastAPI • Flask • Node.js • Express.js • Next.js • Streamlit • REST APIs • Authentication Systems
+
+## Data Engineering & Databases
+
+MongoDB • PostgreSQL • Redis • ClickHouse • ETL Pipelines • Data Warehousing
+
+## Robotics & Embedded AI
+
+ROS2 • NVIDIA Jetson • LiDAR • ZED Cameras • CUDA • JetPack SDK • Sensor Fusion • Raspberry Pi • Arduino
+
+## Cybersecurity
+
+Network Security • Ethical Hacking • Vulnerability Assessment • Penetration Testing • Secure API Integration • Cloud Security
+
+## Visualization & Analytics
+
+Pandas • NumPy • Plotly • Tableau • Power BI • Matplotlib • Recharts • Chart.js
+
+---
+
+# 📌 Selected Projects
+
+## End to End Multi Database Weather Data Engineering Pipeline
+
+Built a real time weather analytics pipeline using:
+
+* Open Meteo API
+* MongoDB
+* ClickHouse
+* Redis
+* Incremental ETL workflows
+* Interactive analytics dashboards
+
+---
+
+## Pest Detection Using SVM
+
+Developed an SVM based agricultural pest detection system for identifying infected tea leaves and improving early intervention workflows.
+
+---
+
+## On Tree Areca Nut Fruit Maturity Detection
+
+Built a YOLOv5 based drone integrated detection system for areca nut maturity analysis using DJI drones and computer vision.
+
+---
+
+# 🌱 Current Interests
+
+* Large Language Models
+* AI Agents
+* Autonomous Systems
+* AI Security
+* Vision Language Models
+* Data Engineering
+* Real Time AI Systems
+* AI for Finance
+* Explainable AI
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio: https://manumathewjiss.com
+💼 LinkedIn: https://linkedin.com
+📚 Google Scholar
+💻 GitHub: https://github.com/manumathewjiss
