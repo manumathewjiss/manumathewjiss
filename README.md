@@ -1,20 +1,12 @@
-# Hi, I'm Manu Mathew Jiss 👋
+[# Hi, I'm Manu Mathew Jiss 👋
 
 🎓 MS in Computer Science at the University of the Pacific
 📍 San Francisco Bay Area, California
 🔗 Portfolio: https://manumathewjiss.com
 
-I am an AI/ML Engineer, Researcher, and Builder focused on developing intelligent systems, scalable AI pipelines, and production ready machine learning applications.
+I am an AI/ML Engineer, Software Engineer, and Researcher passionate about building production ready intelligent systems, scalable AI infrastructure, and real world machine learning applications.
 
-My work spans:
-
-* Generative AI & LLM Applications
-* NLP & Sentiment Analysis
-* Autonomous Systems & Computer Vision
-* AI Powered Full Stack Applications
-* Data Engineering & Analytics
-* Cybersecurity & AI Security
-* Robotics & Embedded AI Systems
+My work spans Generative AI, Large Language Models, Autonomous Systems, Data Engineering, Backend Systems, Computer Vision, and AI driven cybersecurity research.
 
 I currently work as a Graduate Research Assistant across multiple AI research labs at the University of the Pacific while also building AI startups and real world production systems.
 
@@ -181,23 +173,21 @@ Built a YOLOv5 based drone integrated detection system for areca nut maturity an
 
 ---
 
-# 🌱 Current Interests
+## Current Focus
 
-* Large Language Models
-* AI Agents
+* Generative AI & AI Agents
+* Production LLM Applications
 * Autonomous Systems
-* AI Security
-* Vision Language Models
+* Scalable Backend Engineering
 * Data Engineering
-* Real Time AI Systems
-* AI for Finance
-* Explainable AI
+* AI Security
 
 ---
 
 # 📫 Connect With Me
 
 🌐 Portfolio: https://manumathewjiss.com
-💼 LinkedIn: https://linkedin.com
+💼 LinkedIn: linkedin.com/in/manu-mathew-jiss
 📚 Google Scholar
 💻 GitHub: https://github.com/manumathewjiss
+](https://github.com/manumathewjiss/manumathewjiss.com)
