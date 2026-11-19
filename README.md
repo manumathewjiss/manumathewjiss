@@ -1,193 +1,58 @@
-[# Hi, I'm Manu Mathew Jiss 👋
+# Hi, I'm Manu Mathew Jiss 👋
 
-🎓 MS in Computer Science at the University of the Pacific
+**Software engineering · AI/ML · Research engineering**
+
+I'm a computer science M.S. graduate from the University of the Pacific. I build software products and research systems across backend engineering, data pipelines, NLP, retrieval, computer vision, and model evaluation. My work includes a released iOS app, AI product startups, and conference research.
+
 📍 San Francisco Bay Area, California
-🔗 Portfolio: https://manumathewjiss.com
+🌐 [Portfolio](https://manumathewjiss.com) · [LinkedIn](https://www.linkedin.com/in/manu-mathew-jiss/)
 
-I am an AI/ML Engineer, Software Engineer, and Researcher passionate about building production ready intelligent systems, scalable AI infrastructure, and real world machine learning applications.
+## What I build
 
-My work spans Generative AI, Large Language Models, Autonomous Systems, Data Engineering, Backend Systems, Computer Vision, and AI driven cybersecurity research.
+| Area | Selected work |
+| --- | --- |
+| **AI products** | [WhatToBuy](https://www.whattobuy.app/), [Meal Muse](https://apps.apple.com/us/app/meal-muse-recipes/id6757258154), [Stock Crusher](https://stockcrusher.com) |
+| **Retrieval and NLP** | [BookRAG](https://github.com/manumathewjiss/BookRAG), [Sanskrity](https://github.com/manumathewjiss/sanskriti-ai), [Reddit software-update research](https://github.com/manumathewjiss/Research-on-Software-Updates) |
+| **Vision and robotics** | [SignSight](https://openreview.net/forum?id=Uj7BvxrESp&noteId=JxcVGhoZYI), F1TENTH autonomous-vehicle platform integration |
+| **Data and security** | [Weather Data Pipeline](https://github.com/manumathewjiss/Weather-Data-App), [LIMFADD](https://github.com/manumathewjiss/LIMFADD), [social-media analysis](https://github.com/manumathewjiss/nlp-social-media-harmful-content-detection) |
 
-I currently work as a Graduate Research Assistant across multiple AI research labs at the University of the Pacific while also building AI startups and real world production systems.
+## Products and engineering
 
----
+- **[WhatToBuy](https://www.whattobuy.app/)** — Co-founded an AI shopping concierge. Built FastAPI and Next.js workflows that translate a shopper's situation and budget into product comparisons and retailer links.
+- **[Meal Muse](https://apps.apple.com/us/app/meal-muse-recipes/id6757258154)** — Co-founded a released iOS recipe app. Built TypeScript/Fastify services, PostgreSQL/Prisma data models, OAuth, caching, rate limiting, and server-side recipe generation.
+- **[Stock Crusher](https://stockcrusher.com)** — Co-founded a financial research platform. Built React and Flask features that bring market data, news, and multiple model analyses into inspectable research views. The product supports research; it does not execute trades autonomously.
+- **[Equalizer](https://equalizer.net)** — As a software engineering intern, developed Java/Spring Boot backend and telemetry services for mining infrastructure using PostgreSQL, Docker, and REST APIs.
 
-# 🚀 Startup Experience
+## Research and technical projects
 
-## Co-Founder & Software Engineer | Stock Crusher
+- **[BookRAG](https://bookrag.vercel.app/)** · [Code](https://github.com/manumathewjiss/BookRAG) — Private PDF study app with sign-in, document processing, page-linked citations, and evidence-grounded answers. Built with FastAPI, Supabase, PostgreSQL/pgvector, BM25, and Voyage models.
+- **[AIMoodDiary](https://www.aimooddiary.com)** · [Code](https://github.com/manumathewjiss/moodmirror-student-wellness-tracker) — Student self-reflection app combining emotion models, guided journaling, mood trends, and Whisper speech input. This is a reflection tool, not a clinical diagnosis system.
+- **[Reddit software-update research](https://github.com/manumathewjiss/Research-on-Software-Updates)** · [Dashboard](https://beamish-custard-f44097.netlify.app/research-open-text-sentimental/web/) — Studied how technical problem solving and general discontent appear in Reddit discussions. Compared classifiers and sentiment tools, reviewed labels, and examined original posts alongside author and community replies.
+- **F1TENTH and [SignSight](https://openreview.net/forum?id=Uj7BvxrESp&noteId=JxcVGhoZYI)** — Integrated ROS 2, GPU perception, and a ZED stereo camera on an NVIDIA Jetson Orin Nano; contributed to CLIP-based traffic-sign research.
+- **[Social-media analysis](https://github.com/manumathewjiss/nlp-social-media-harmful-content-detection)** and **[LIMFADD](https://github.com/manumathewjiss/LIMFADD)** — Built sentiment, toxicity, and account-authenticity analysis with XGBoost and LIME; studied real, spam, scam, and bot accounts.
+- **[Sanskrity](https://github.com/manumathewjiss/sanskriti-ai)** — Sanskrit/English question answering over approximately 93,000 verse pairs with multilingual retrieval, FAISS, and source-linked answers.
+- **[Weather Data Pipeline](https://github.com/manumathewjiss/Weather-Data-App)** — Connected Open-Meteo data to MongoDB, ClickHouse, Redis, Express APIs, and an analytics dashboard.
+- **[Sprout-ly](https://github.com/SE4CPS/PlantWaterSystem)** — Team IoT project connecting Raspberry Pi soil-moisture readings with a FastAPI/PostgreSQL backend and React dashboard.
+- **Mixture-of-experts model-safety research** — Co-developed experiments comparing next-token effects with complete-answer safety outcomes. Manuscript under review at ICLR 2027.
 
-Built a GenAI powered autonomous trading platform integrating:
+## Publications and academic work
 
-* Reddit + news sentiment pipelines
-* Multi source financial APIs
-* LLM based reasoning systems
-* Real time BUY / SELL signal generation
-* Portfolio analytics and risk insights
+- **Accepted at IEEE ICMLA 2026:** *Distinguishing Technical Problem Solving and General Discontent in Reddit Software Update Discussions*; *AIMoodDiary: Hybrid Emotion Inference for Reflective Journaling and Mood Analytics*.
+- **IEEE SMC 2026:** [*A Three-Phase Pipeline for Sentiment, Toxicity, and Account Authenticity on Social Media Comments*](https://conf.papercept.net/conferences/conferences/SMC26/program/SMC26_ContentListWeb_3.html).
+- **IEEE ISTAS 2025:** [*LIMFADD: LLM-enabled Instagram Multi-Class Fake Account Detection Dataset*](https://ieeexplore.ieee.org/document/11269636).
+- **Under review:** *Purpose-Conditioned Sentiment Dynamics in Reddit Software-Update Discussions* (ICSC 2027); mixture-of-experts model-safety manuscript (ICLR 2027).
 
-Tech used:
-Python • FastAPI • OpenAI API • Reddit API • Yahoo Finance • Redis • PostgreSQL • Streamlit
+I was also a graduate teaching assistant for Security Analytics at the University of the Pacific and have reviewed for ICMLA 2026, SMC 2026, and ICLR 2027.
 
----
+## Tools I use
 
-## Co-Founder & Software Engineer | Meal Muse
+**Languages and apps:** Python, TypeScript, JavaScript, Java, SQL, FastAPI, Flask, Fastify, Spring Boot, React, Next.js.
 
-Developed a full stack AI recipe assistant featuring:
+**Data and infrastructure:** PostgreSQL, pgvector, Supabase, MongoDB, ClickHouse, Redis, Docker, Git, Linux.
 
-* AI powered recipe generation
-* Personalized food recommendations
-* Voice, image, and text based inputs
-* Secure authentication systems
-* Scalable backend infrastructure
+**AI and evaluation:** PyTorch, TensorFlow, scikit-learn, Hugging Face, CLIP, XGBoost, LIME, RAG, BM25, FAISS, embeddings, reranking, human review, grouped evaluation, error analysis.
+**Robotics:** ROS 2, NVIDIA Jetson, CUDA, ZED stereo camera.
 
-Tech used:
-SwiftUI • FastAPI • Node.js • PostgreSQL • OpenAI API
+## Connect
 
----
-
-# 🔬 Research Experience
-
-## Graduate Research Assistant | University of the Pacific
-
-### Sentiment Trajectory Research
-
-Working under Dr. Solomon Berhe
-
-* Conducted sentiment trajectory analysis on Reddit discussions using NLP pipelines and VADER sentiment analysis
-* Built scalable data pipelines with filtering, annotation, evaluation, and live dashboard visualization
-* Modeled author vs community sentiment divergence patterns
-
----
-
-### Autonomous Racing AI
-
-Working under Dr. Don Lee
-
-* Developed AI perception and control systems for an F1TENTH autonomous racing platform
-* Integrated ROS2, OpenCV, LiDAR, CUDA, Docker, and Jetson Orin Nano for real time navigation
-* Built SignSight, a vision language framework for traffic sign recognition using CLIP based semantic reasoning
-
-📄 Manuscript under review at CVPR 2026
-
----
-
-### AI/NLP Security Research
-
-Working under Dr. Tapadhir Das
-
-* Developed AI pipelines for:
-
-  * Sentiment analysis
-  * Toxicity detection
-  * Fake account classification
-  * Bot and scam detection
-* Achieved 96.9% classification accuracy using XGBoost and LIME based explainability systems
-* Built LIMFADD dataset for fake account detection research
-
-📄 Research under review at IEEE SMC 2026
-📄 Published at IEEE ISTAS 2025 TechRxiv
-
----
-
-### AIMoodDiary Research
-
-Working under Dr. Pramod Gupta
-
-* Developed RoBERTa based emotion classification systems using the GoEmotions dataset
-* Built AIMoodDiary, an AI journaling platform with LLM powered diary generation and mood analytics
-* Developed full stack architecture using Next.js and FastAPI
-
----
-
-# 🎓 Graduate Teaching Assistant
-
-## University of the Pacific
-
-Teaching Assistant for cybersecurity analytics and security operations coursework.
-
-Worked on:
-
-* SIEM and Splunk workflows
-* Linux and virtualization labs
-* Threat intelligence investigations
-* SOC based security analysis
-* Log analysis and reporting
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-Python • C++ • JavaScript • TypeScript • SQL • MATLAB • Bash • HTML • CSS
-
-## Machine Learning & AI
-
-TensorFlow • PyTorch • Scikit learn • Hugging Face • YOLOv5 • ResNet50 • LLMs • RAG • NLP • OpenAI API • SHAP • LIME • VADER • TextBlob
-
-## Backend & Frameworks
-
-FastAPI • Flask • Node.js • Express.js • Next.js • Streamlit • REST APIs • Authentication Systems
-
-## Data Engineering & Databases
-
-MongoDB • PostgreSQL • Redis • ClickHouse • ETL Pipelines • Data Warehousing
-
-## Robotics & Embedded AI
-
-ROS2 • NVIDIA Jetson • LiDAR • ZED Cameras • CUDA • JetPack SDK • Sensor Fusion • Raspberry Pi • Arduino
-
-## Cybersecurity
-
-Network Security • Ethical Hacking • Vulnerability Assessment • Penetration Testing • Secure API Integration • Cloud Security
-
-## Visualization & Analytics
-
-Pandas • NumPy • Plotly • Tableau • Power BI • Matplotlib • Recharts • Chart.js
-
----
-
-# 📌 Selected Projects
-
-## End to End Multi Database Weather Data Engineering Pipeline
-
-Built a real time weather analytics pipeline using:
-
-* Open Meteo API
-* MongoDB
-* ClickHouse
-* Redis
-* Incremental ETL workflows
-* Interactive analytics dashboards
-
----
-
-## Pest Detection Using SVM
-
-Developed an SVM based agricultural pest detection system for identifying infected tea leaves and improving early intervention workflows.
-
----
-
-## On Tree Areca Nut Fruit Maturity Detection
-
-Built a YOLOv5 based drone integrated detection system for areca nut maturity analysis using DJI drones and computer vision.
-
----
-
-## Current Focus
-
-* Generative AI & AI Agents
-* Production LLM Applications
-* Autonomous Systems
-* Scalable Backend Engineering
-* Data Engineering
-* AI Security
-
----
-
-# 📫 Connect With Me
-
-🌐 Portfolio: https://manumathewjiss.com
-💼 LinkedIn: linkedin.com/in/manu-mathew-jiss
-📚 Google Scholar
-💻 GitHub: https://github.com/manumathewjiss
-](https://github.com/manumathewjiss/manumathewjiss.com)
+[Portfolio](https://manumathewjiss.com) · [LinkedIn](https://www.linkedin.com/in/manu-mathew-jiss/) · [GitHub](https://github.com/manumathewjiss)
